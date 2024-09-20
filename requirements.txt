@@ -7,3 +7,6 @@ torch
 numpy
 pandas
 matplotlib
+PyPDF2
+glob
+tiktoken
